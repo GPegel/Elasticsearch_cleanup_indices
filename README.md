@@ -1,4 +1,4 @@
-# Elasticsearch cleanup indices
+### Elasticsearch cleanup indices
 Script to cleanup Elasticsearch inidices automatically
 
 This script is able to delete indicies older than 21 days or, when there is lots of data comming in at once, delete the oldest indices when free disk space is lower than 25 percent.
