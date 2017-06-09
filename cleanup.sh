@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bin/bashs
 # Options
 DATA_PARTITION="/data"
 STOP_CLEAN_PERCENTAGE="75"
